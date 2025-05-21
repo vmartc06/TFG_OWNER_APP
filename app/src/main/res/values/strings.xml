@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">TFG_OWNER_APP</string>
+    <string name="app_description">An application to help elderly people\n</string>
+    <string name="enter_registration_code">Enter registration code</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="manual_setup">Manual setup</string>
+    <string name="register">Register</string>
+    <string name="error_url_required">URL is required</string>
+    <string name="error_invalid_url">Invalid URL</string>
+    <string name="error_registration_code_required">Registration code is required</string>
+    <string name="error_registration_code_invalid">Registration code is invalid</string>
+    <string name="error_registration_validation_failed">Could not validate the fields</string>
+    <string name="error_registration_unknown_request_error">There was a problem generating the request</string>
+    <string name="error_registration_unknown_response_error">There was a problem with the response of the server</string>
+    <string name="error_registration_mbox_title">Enrollment error</string>
+    <string name="error_registration_manual_bad_permissions">The app has not been granted device owner permissions</string>
+    <string name="error_registration_no_server_data">Could not found server information. Try manual enrollment instead</string>
+    <string name="error_registration_corrupted_server_data">Could not read server information. Try manual enrollment instead</string>
+    <string name="error_registration_unknown_error">Unknown error. Try manual enrollment instead</string>
+    <string name="error_permissions">The app must have device owner permissions in order to work</string>
+    <string name="error_permissions_mbox_title">Permissions critical error</string>
+    <string name="error_runtime_credentials">The app credentials were lost, you must re-enroll the device manually or factory reset it and do it automatically</string>
 </resources>
