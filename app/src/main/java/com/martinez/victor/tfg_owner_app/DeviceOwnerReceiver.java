@@ -2,9 +2,6 @@ package com.martinez.victor.tfg_owner_app;
 
 import static android.content.Context.MODE_PRIVATE;
 
-import static androidx.core.content.ContextCompat.startActivity;
-
-import android.app.AlertDialog;
 import android.app.admin.DeviceAdminReceiver;
 import android.app.admin.DevicePolicyManager;
 import android.content.Context;
@@ -15,7 +12,6 @@ import android.util.Log;
 
 import androidx.annotation.NonNull;
 
-import com.martinez.victor.tfg_owner_app.activities.MainActivity;
 import com.martinez.victor.tfg_owner_app.activities.ManualRegistration;
 import com.martinez.victor.tfg_owner_app.utilities.DeviceOwner;
 import com.martinez.victor.tfg_owner_app.utilities.network.Registrator;
