@@ -37,8 +37,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/enter_url"
-            android:inputType="textUri"
-            android:text="http://192.168.0.68:8000" />
+            android:inputType="textUri" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <!-- String Input Field -->
@@ -58,8 +57,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/enter_registration_code"
-            android:inputType="text"
-            android:text="DFE4D8243A" />
+            android:inputType="text" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <!-- Register Button -->
